@@ -1,8 +1,7 @@
 package com.zjs.bwcx.类型转换操作符;
 
-import sun.util.logging.resources.logging;
-
 public class Casting {
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		int i = 200;
 		long lng = (long)i;

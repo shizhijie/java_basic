@@ -9,6 +9,7 @@ public class Test {
 		return true;
 	}
 	
+	@SuppressWarnings("unused")
 	public static void methodA(int i) {
 		boolean b;
 		b = i<10|methodB(7);

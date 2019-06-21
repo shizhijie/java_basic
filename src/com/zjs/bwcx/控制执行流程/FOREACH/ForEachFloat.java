@@ -1,9 +1,6 @@
 package com.zjs.bwcx.控制执行流程.FOREACH;
 
-import java.util.Iterator;
 import java.util.Random;
-
-import sun.misc.FpUtils;
 
 public class ForEachFloat {
 	public static void main(String[] args) {
